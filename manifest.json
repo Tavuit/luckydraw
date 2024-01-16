@@ -1,5 +1,5 @@
 {
-  "name": "Random Name Picker for Lucky Draw",
+  "name": "NCC Lucky Draw",
   "short_name": "Random Name Picker",
   "description": "Simple HTML5 random name picker for picking lucky draw winner using Web Animations API",
   "start_url": "./",
